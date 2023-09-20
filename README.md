@@ -1,15 +1,6 @@
-# Topsis 102003427
+# Topsis 
 
-for: (UCS654) 
-Assignment-1  
-submitted by: 
-Diya Malhotra
-102003427 
-3COE15
-
-topsis-Diya-102003427 is a Python library for dealing with Multiple Criteria Decision Making(MCDM) problems by using Technique for Order of Preference by Similarity to Ideal Solution(TOPSIS).
-
-
+Developed a Python library specifically designed for addressing Multiple Criteria Decision Making (MCDM) problems using the Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS) method. This library offers a comprehensive set of tools and functions to facilitate the analysis and resolution of MCDM problems, empowering users to effectively apply the TOPSIS technique in their decision-making processes.
 
 ## Installation
 
